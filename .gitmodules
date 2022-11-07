@@ -9,5 +9,5 @@
 # SPDX-License-Identifier: CC-BY-SA-4.0
 [submodule "Git 版本控制系統"]
 	path = Git 版本控制系統
-	url = git@github.com:libre-knowledge/git.git
+	url = https://github.com/libre-knowledge/git.git
 	ignore = dirty

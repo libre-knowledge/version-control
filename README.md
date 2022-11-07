@@ -8,7 +8,7 @@
 
 * [Apache Subversion 版本控制系統](<Apache Subversion 版本控制系統/>)  
   主流的中心式版本控制系統
-* [Git 版本控制系統](<Git 版本控制系統/>)  
+* [Git 版本控制系統](https://github.com/libre-knowledge/git)  
   由 Linux 作業系統核心作者 Linux Torvalds 發起的非中心式分散式版本控制系統，具有處理大規模專案版本的能力，被大部分的大型軟體專案採用
 
 ## 參考資料
